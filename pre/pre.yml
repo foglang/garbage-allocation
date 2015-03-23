@@ -1,0 +1,4 @@
+name: "Rich text container"
+description: "Allows for the inclusion of \"rich text\" in a FOG program."
+tags: ["string", "rich", "text"]
+expect: "<b><marquee><blink>HTML is AWESOME!!!</blink></marquee></b>"
