@@ -1,3 +1,4 @@
 name: "Print out"
 description: "Prints out a string or a variable to the standard output buffer"
 tags: ["string", "output", "io", "stdout", "print", "variable"]
+expected: "output"
