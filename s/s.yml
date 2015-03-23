@@ -1,0 +1,5 @@
+name: "Undefine"
+description: "Deallocates memory of affected value"
+tags: ["variable", "memory"]
+# Nothing to test for until we add if statments
+expected: "" 
