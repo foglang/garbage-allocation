@@ -1,4 +1,4 @@
 name: "Variable definition structure"
 description: "Tables allow for various variable structure to be defined inside them"
 tags: ["tuple", "array", "dict", "variable"]
-expected: "1\n2\n3\n4"
+expected: "1 2 3 4"
