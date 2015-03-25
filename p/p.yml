@@ -1,0 +1,4 @@
+name: "p tag"
+description: "This tag is ignored by FOG"
+tags: ["ignored"]
+expect: ""
