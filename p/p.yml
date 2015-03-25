@@ -1,4 +1,4 @@
 name: "p tag"
-description: "This tag is ignored by FOG"
+description: "This tag is ignored by FOG, it will NOT be evaluated as a string literal"
 tags: ["ignored"]
 expect: ""
