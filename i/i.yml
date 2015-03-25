@@ -1,0 +1,4 @@
+name: "Operator"
+description: "Italics is used to access operators of all types"
+tags: ["operators", "math", "logic", "bitwise"]
+expect: "5"
