@@ -1,4 +1,7 @@
-garbage-allocation
-==================
+#garbage-allocation
 
-This repo is an outline for how foglang features and constructs map to html tags
+An outline for how html tags map to foglang syntax and constructs
+
+| html tag | foglang feature |
+| --------:| --------------- |
+| <b>      | Variable access |
