@@ -2,7 +2,7 @@
 
 An outline for how html tags map to foglang syntax and constructs
 
-| html tag  | foglang feature               |
-| ---------:| ----------------------------- |
-| \<b\>     | Variable access               |
-| \<table\> | Variable definition structure |
+| html        | foglang                                                                                            |
+| -----------:| -------------------------------------------------------------------------------------------------- |
+| `\<b\>`     | [Variable access](https://github.com/foglang/garbage-allocation/blob/master/table/table.yml)       |
+| `\<table\>` | [Variable definition structure](https://github.com/foglang/garbage-allocation/blob/master/b/b.yml) |
