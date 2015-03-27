@@ -1,6 +1,6 @@
 #garbage-allocation
 
-An outline for how html tags map to foglang syntax and constructs
+An outline for how html tags map to fog syntax and constructs
 
 | html      | foglang                                                                                            |
 | ---------:| -------------------------------------------------------------------------------------------------- |
