@@ -1,5 +1,5 @@
 #Garbage allocation
-An outline for how html tags map to fog syntax and constructs
+>An outline for how html tags map to fog syntax and constructs
 
 html|fog|status
 ---:|---|:----:
@@ -11,14 +11,15 @@ html|fog|status
 `<table>`|[Variable definition structure](https://github.com/foglang/garbage-allocation/blob/master/tags/table/table.yml)|
 `<td>`|[table](https://github.com/foglang/garbage-allocation/blob/master/tags/td/td.yml)|
 `<tr>`|[table](https://github.com/foglang/garbage-allocation/blob/master/tags/tr/tr.yml)|
+`<u>`|[Print out](https://github.com/foglang/garbage-allocation/blob/master/tags/u/u.yml)|
 
-##status meanings
-1: Will never change<br>
-2: We like this feature; unlikely to change<br>
-3: The feature works but has at least one flaw; could change<br>
-4: Quick and dirty solution; likely to change<br>
-5: Preposition or temporary solution
+##status translations
+1 - will never change<br>
+2 - we like this feature; unlikely to change<br>
+3 - the feature works but has at least one flaw; could change<br>
+4 - quick and dirty solution; likely to change<br>
+5 - preposition or temporary solution
 
 ---
 
-2015  foglang group `github.com/foglang`
+2015 foglang group `github.com/foglang`
