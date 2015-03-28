@@ -1,2 +1,4 @@
-name: unassigned
-tags: [unassigned]
+name: "Array structure"
+description: "Used to define an array structure within a table"
+tags: ["variable", "array"]
+seeAlso: "table"
