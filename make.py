@@ -26,7 +26,10 @@ with open('./README.md', 'w') as readme:
                 with open(os.path.join(dirname, filename), 'r') as file:
                     yaml = pyaml.load(file)
                     tag = filename.split('.', 1)[0]
-                    readme.write('`<' + tag + '>`|[' + yaml['name'] + '](' + base_url + tag + '/' + tag + '.yaml)|');
+                    readme.write('`<' + tag + '>`|[' + yaml['name'] + '](' + base_url)
+                    if('pointsTo' in yaml):
+                        tag = yaml['pointsTo']
+                    readme.write(tag + '/' + tag + '.yaml)|')
                     if('status' in yaml):
                         readme.write(str(yaml['status']))
                     readme.write('\n')
