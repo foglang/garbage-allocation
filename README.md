@@ -9,6 +9,7 @@ html|fog|status
 `<code>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/code/code.yaml)|
 `<div>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/div/div.yaml)|
 `<em>`|[italics alias](https://github.com/foglang/garbage-allocation/blob/master/tags/i/i.yaml)|
+`<hr>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/hr/hr.yaml)|
 `<i>`|[operator](https://github.com/foglang/garbage-allocation/blob/master/tags/i/i.yaml)|
 `<ins>`|[underline alias](https://github.com/foglang/garbage-allocation/blob/master/tags/u/u.yaml)|
 `<li>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/li/li.yaml)|
