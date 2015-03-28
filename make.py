@@ -2,7 +2,12 @@
 
 import os, re, yaml as pyaml
 
-header = '#Garbage allocation\n>An outline for how html tags map to fog syntax and constructs\n\n'
+header = """#Garbage allocation
+>An outline for how html tags map to fog syntax and constructs
+
+If you have any ideas or suggestions, please make an issue or fork this repo and make a pull request :)
+
+"""
 footer = """
 ##status translations
 1 - will never change<br>

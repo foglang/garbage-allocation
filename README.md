@@ -1,6 +1,8 @@
 #Garbage allocation
 >An outline for how html tags map to fog syntax and constructs
 
+If you have any ideas or suggestions, please make an issue or fork this repo and make a pull request :)
+
 html|fog|status
 ---:|---|:----:
 `<a>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/a/a.yaml)|
