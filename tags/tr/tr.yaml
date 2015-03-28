@@ -1,4 +1,4 @@
-name: dictionary or tuple elements
+name: component of table
 description: |
     Seperates dictionary and tuple elements.
     Also required in simple variables.

@@ -3,4 +3,5 @@ description: |
     Prints an expression to the standard output buffer.
     Literals or dereferenced variables can be printed.
 tags: [string, output, io, stdout, print]
+status: 1
 expected: output

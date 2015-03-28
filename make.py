@@ -1,6 +1,6 @@
 #!/bin/python
 
-import os, re, yaml
+import os, re, yaml as pyaml
 
 header = '#Garbage allocation\n>An outline for how html tags map to fog syntax and constructs\n\n'
 footer = """
@@ -24,7 +24,10 @@ with open('./README.md', 'w') as readme:
         for filename in filenames:
             if(filename.endswith('.yaml')):
                 with open(os.path.join(dirname, filename), 'r') as file:
-                    yml = yaml.load(file)
+                    yaml = pyaml.load(file)
                     tag = filename.split('.', 1)[0]
-                    readme.write('`<' + tag + '>`|[' + yml['name'] + '](' + base_url + tag + '/' + tag + '.yaml)|\n');
+                    readme.write('`<' + tag + '>`|[' + yaml['name'] + '](' + base_url + tag + '/' + tag + '.yaml)|');
+                    if('status' in yaml):
+                        readme.write(str(yaml['status']))
+                    readme.write('\n')
     readme.write(footer)

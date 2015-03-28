@@ -3,15 +3,15 @@
 
 html|fog|status
 ---:|---|:----:
-`<b>`|[Variable access](https://github.com/foglang/garbage-allocation/blob/master/tags/b/b.yaml)|
-`<i>`|[Operator](https://github.com/foglang/garbage-allocation/blob/master/tags/i/i.yaml)|
-`<p>`|[p tag](https://github.com/foglang/garbage-allocation/blob/master/tags/p/p.yaml)|
-`<pre>`|[Rich text container](https://github.com/foglang/garbage-allocation/blob/master/tags/pre/pre.yaml)|
-`<s>`|[Undefine](https://github.com/foglang/garbage-allocation/blob/master/tags/s/s.yaml)|
-`<table>`|[Variable definition structure](https://github.com/foglang/garbage-allocation/blob/master/tags/table/table.yaml)|
-`<td>`|[td](https://github.com/foglang/garbage-allocation/blob/master/tags/td/td.yaml)|
-`<tr>`|[tr](https://github.com/foglang/garbage-allocation/blob/master/tags/tr/tr.yaml)|
-`<u>`|[Print out](https://github.com/foglang/garbage-allocation/blob/master/tags/u/u.yaml)|
+`<b>`|[variable access](https://github.com/foglang/garbage-allocation/blob/master/tags/b/b.yaml)|
+`<i>`|[operator](https://github.com/foglang/garbage-allocation/blob/master/tags/i/i.yaml)|
+`<p>`|[ignored](https://github.com/foglang/garbage-allocation/blob/master/tags/p/p.yaml)|
+`<pre>`|[rich text container](https://github.com/foglang/garbage-allocation/blob/master/tags/pre/pre.yaml)|
+`<s>`|[undefine](https://github.com/foglang/garbage-allocation/blob/master/tags/s/s.yaml)|
+`<table>`|[variable definition structure](https://github.com/foglang/garbage-allocation/blob/master/tags/table/table.yaml)|
+`<td>`|[component of table](https://github.com/foglang/garbage-allocation/blob/master/tags/td/td.yaml)|
+`<tr>`|[component of table](https://github.com/foglang/garbage-allocation/blob/master/tags/tr/tr.yaml)|
+`<u>`|[print data](https://github.com/foglang/garbage-allocation/blob/master/tags/u/u.yaml)|1
 
 ##status translations
 1 - will never change<br>
