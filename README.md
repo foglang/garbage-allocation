@@ -13,7 +13,7 @@ html|fog|status
 `<i>`|[operator](https://github.com/foglang/garbage-allocation/blob/master/tags/i/i.yaml)|
 `<ins>`|[underline alias](https://github.com/foglang/garbage-allocation/blob/master/tags/u/u.yaml)|
 `<li>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/li/li.yaml)|
-`<ol>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/ol/ol.yaml)|
+`<ol>`|[Array structure](https://github.com/foglang/garbage-allocation/blob/master/tags/ol/ol.yaml)|
 `<p>`|[ignored](https://github.com/foglang/garbage-allocation/blob/master/tags/p/p.yaml)|
 `<pre>`|[rich text container](https://github.com/foglang/garbage-allocation/blob/master/tags/pre/pre.yaml)|
 `<q>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/q/q.yaml)|
