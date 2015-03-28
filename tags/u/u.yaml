@@ -1,0 +1,6 @@
+name: print data
+description: |
+    Prints an expression to the standard output buffer.
+    Literals or dereferenced variables can be printed.
+tags: [string, output, io, stdout, print]
+expected: output

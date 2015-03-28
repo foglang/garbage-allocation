@@ -1,0 +1,4 @@
+name: variable access
+description: Denotes a variable and allows subsequent modification of the variable
+tags: [variable, call, declare, define, field]
+expected: this is a var

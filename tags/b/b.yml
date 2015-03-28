@@ -1,4 +1,0 @@
-name: "Variable access"
-description: "Denotes a variable and allows subsequent modification of the variable"
-tags: ["variable"]
-expected: "this is a var"

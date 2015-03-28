@@ -1,0 +1,4 @@
+name: variable definition structure
+description: Tables are used to define various variable structures
+tags: [tuple, array, list, dict, variable, type]
+expected: 1 2 3 4

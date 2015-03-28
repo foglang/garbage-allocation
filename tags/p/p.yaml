@@ -1,0 +1,4 @@
+name: ignored
+description: This tag is ignored by fog, it will NOT be evaluated as a string literal
+tags: [ignored, unused]
+expect: ""

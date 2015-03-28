@@ -1,0 +1,5 @@
+name: undefine
+description: Deallocates any memory associated with the striken-through expression
+tags: [variable, memory, deallocate]
+# Nothing to test for until we add if statments
+expected: ""

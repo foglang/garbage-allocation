@@ -1,0 +1,5 @@
+name: dictionary or tuple elements
+description: |
+    Seperates dictionary and tuple elements.
+    Also required in simple variables.
+seeAlso: table

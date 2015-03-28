@@ -1,0 +1,7 @@
+name: rich text container
+description: |
+    Tells the compiler to ignore non-<pre> html tags in the <pre> block.
+    Allows for the inclusion of rich text in strings.
+    While comparable to quotes in other languages, keep in mind non rich strings do not require any formating or tags.
+tags: [string, rich, text, escape]
+expect: <b><marquee><blink>HTML is AWESOME!!!</blink></marquee></b>
