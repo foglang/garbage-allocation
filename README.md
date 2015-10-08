@@ -15,7 +15,7 @@ html|fog|status
 `<li>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/li/li.yaml)|
 `<ol>`|[Array structure](https://github.com/foglang/garbage-allocation/blob/master/tags/ol/ol.yaml)|
 `<p>`|[ignored](https://github.com/foglang/garbage-allocation/blob/master/tags/p/p.yaml)|
-`<pre>`|[rich text container](https://github.com/foglang/garbage-allocation/blob/master/tags/pre/pre.yaml)|
+`<pre>`|[rich text container](https://github.com/foglang/garbage-allocation/blob/master/tags/pre/pre.yaml)|1
 `<q>`|[unassigned](https://github.com/foglang/garbage-allocation/blob/master/tags/q/q.yaml)|
 `<s>`|[undefine](https://github.com/foglang/garbage-allocation/blob/master/tags/s/s.yaml)|
 `<strong>`|[bold alias](https://github.com/foglang/garbage-allocation/blob/master/tags/b/b.yaml)|

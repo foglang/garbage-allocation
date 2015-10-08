@@ -4,4 +4,5 @@ description: |
     Allows for the inclusion of rich text in strings.
     While comparable to quotes in other languages, keep in mind non rich strings do not require any formating or tags.
 tags: [string, rich, text, escape]
+status: 1
 expect: <b><marquee><blink>HTML is AWESOME!!!</blink></marquee></b>
